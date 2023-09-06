@@ -23,7 +23,7 @@
 	"dependencies": {
 		"chalk": "~0.2",
 		"express": "~3.4",
-		"express-hbs": "~0.2",
+		"express-hbs": "~2.4.0",
 		"moment": "~2.2",
 		"pa11y-webservice": "~1.8",
 		"pa11y-webservice-client-node": "~1.1",
